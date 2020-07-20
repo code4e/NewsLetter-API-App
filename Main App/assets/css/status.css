@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-container{
+    background-color: #E8E8E8;
+    padding: 35px 50px;
+    color: #282828;
+}
+h1{
+    font-size: 3.5rem;
+    font-weight: lighter;
+}
+.fail-btn{
+    background-color: thistle;
+    padding: 25px 20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}

@@ -1,0 +1,48 @@
+body{
+    background-color: khaki;
+    margin: 0;
+    text-align: center;
+}
+.main-container{
+    width: 25rem;
+    margin: 10rem auto 4rem auto;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img-container{
+    text-align: center;
+    height: 8rem;
+    width: 8rem;
+    margin: auto;
+}
+.img-container img{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+form *{
+    display: block;
+}
+form input{
+    width: 96.9%;
+    padding: 12px 5px;
+    border: 1px solid darkgray;
+}
+form button{
+    border: none;
+    background-color: royalblue;
+    padding: 15px;
+    width: 100%;
+    margin-top: 10px;
+    color: seashell;
+    font-size: large;
+    border-radius: 10px;
+}
+form button:hover{
+    background-color: slateblue;
+}
+.copyright{
+    color: slategrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
